@@ -1,2 +1,0 @@
-# lerna-demo
-lerna-demo
