@@ -7,8 +7,8 @@
       "hoist": true
     }
   },
-  "ignoreChanges": [    "**/*.md"  ],
-  "version": {
-    "conventionalCommits": true
-  }
+  "ignoreChanges": [
+    "**/*.md"
+  ],
+  "version": "0.1.1"
 }
