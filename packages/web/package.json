@@ -1,6 +1,6 @@
 {
   "name": "@xys-demo/web",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "author": "tfish <790028773@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xys-demo/common": "^0.1.0-alpha.0",
+    "@xys-demo/common": "^0.2.0",
     "chalk": "^4.1.1"
   },
   "gitHead": "3886ee2535a980f83da4426e4a65e13ccefaaf4a"
